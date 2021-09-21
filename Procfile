@@ -1,2 +1,2 @@
-web /bin/sh -c ./start.sh
+web: /bin/sh -c ./start.sh
 worker:
